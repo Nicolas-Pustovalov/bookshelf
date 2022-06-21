@@ -1,0 +1,23 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Pustovalov/bookshelf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Pustovalov/bookshelf/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Pustovalov/bookshelf#readme",
+  "dependencies": {
+    "dayjs": "^1.11.3"
+  }
+}
